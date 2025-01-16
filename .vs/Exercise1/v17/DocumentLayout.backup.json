@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\Exercise1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D94DA331-7CAF-41A5-B8D6-E44C38472206}|ExerciseWeb\\ExerciseWeb.csproj|C:\\Users\\ADMIN\\source\\repos\\Exercise1\\exerciseweb\\webservice1.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D94DA331-7CAF-41A5-B8D6-E44C38472206}|ExerciseWeb\\ExerciseWeb.csproj|solutionrelative:exerciseweb\\webservice1.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDE2941-E442-4C21-87D4-0267166CBC0B}|Exercise1\\Exercise1.csproj|c:\\users\\admin\\source\\repos\\exercise1\\exercise1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDE2941-E442-4C21-87D4-0267166CBC0B}|Exercise1\\Exercise1.csproj|solutionrelative:exercise1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D94DA331-7CAF-41A5-B8D6-E44C38472206}|ExerciseWeb\\ExerciseWeb.csproj|C:\\Users\\ADMIN\\source\\repos\\Exercise1\\exerciseweb\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D94DA331-7CAF-41A5-B8D6-E44C38472206}|ExerciseWeb\\ExerciseWeb.csproj|solutionrelative:exerciseweb\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebService1.asmx.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Exercise1\\ExerciseWeb\\WebService1.asmx.cs",
+              "RelativeDocumentMoniker": "ExerciseWeb\\WebService1.asmx.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Exercise1\\ExerciseWeb\\WebService1.asmx.cs",
+              "RelativeToolTip": "ExerciseWeb\\WebService1.asmx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:40:44.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Exercise1\\ExerciseWeb\\Web.config",
+              "RelativeDocumentMoniker": "ExerciseWeb\\Web.config",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Exercise1\\ExerciseWeb\\Web.config",
+              "RelativeToolTip": "ExerciseWeb\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-16T09:06:02.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Exercise1\\Exercise1\\Form1.cs",
+              "RelativeDocumentMoniker": "Exercise1\\Form1.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Exercise1\\Exercise1\\Form1.cs",
+              "RelativeToolTip": "Exercise1\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T16:34:22.529Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

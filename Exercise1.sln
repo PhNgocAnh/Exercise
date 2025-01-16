@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise1", "Exercise1\Exercise1.csproj", "{CDDE2941-E442-4C21-87D4-0267166CBC0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseWeb", "ExerciseWeb\ExerciseWeb.csproj", "{D94DA331-7CAF-41A5-B8D6-E44C38472206}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDDE2941-E442-4C21-87D4-0267166CBC0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDDE2941-E442-4C21-87D4-0267166CBC0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDDE2941-E442-4C21-87D4-0267166CBC0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDDE2941-E442-4C21-87D4-0267166CBC0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D94DA331-7CAF-41A5-B8D6-E44C38472206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D94DA331-7CAF-41A5-B8D6-E44C38472206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D94DA331-7CAF-41A5-B8D6-E44C38472206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D94DA331-7CAF-41A5-B8D6-E44C38472206}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
